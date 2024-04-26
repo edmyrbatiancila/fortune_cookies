@@ -1,0 +1,22 @@
+* {
+    /* outline: 1px dotted red; */
+    text-align: center;
+}
+
+img {
+    width: 130px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.box {
+    margin-top: 20px;
+}
+
+.cookies {
+    padding: 10px;
+}
+
+span {
+    font-weight: bold;
+}
