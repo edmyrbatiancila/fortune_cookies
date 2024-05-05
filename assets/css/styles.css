@@ -25,7 +25,8 @@ span {
     font-weight: bold;
 }
 
-.code {
+
+a {
     padding: 20px;
     border: none;
     border-radius: 10px;
@@ -36,8 +37,4 @@ span {
     align-items: center;
     font-size: larger;
     font-weight: 300;
-}
-
-a {
-    text-decoration: none;
 }
