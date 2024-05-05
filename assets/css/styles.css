@@ -1,6 +1,6 @@
 * {
-    outline: 1px dotted red;
     text-align: center;
+    text-decoration: none;
 }
 
 img {
@@ -19,4 +19,12 @@ img {
 
 span {
     font-weight: bold;
+}
+
+.code {
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
 }
