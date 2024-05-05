@@ -34,6 +34,10 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: medium;
+    font-size: larger;
     font-weight: 300;
+}
+
+a {
+    text-decoration: none;
 }
